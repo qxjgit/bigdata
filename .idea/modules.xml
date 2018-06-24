@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ElasticSearch/ElasticSearch.iml" filepath="$PROJECT_DIR$/ElasticSearch/ElasticSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hadoop/Hadoop.iml" filepath="$PROJECT_DIR$/Hadoop/Hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hbase/Hbase.iml" filepath="$PROJECT_DIR$/Hbase/Hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/Kafka/Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scala/Scala.iml" filepath="$PROJECT_DIR$/Scala/Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spark/Spark.iml" filepath="$PROJECT_DIR$/Spark/Spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata.iml" filepath="$PROJECT_DIR$/bigdata.iml" />
+    </modules>
+  </component>
+</project>

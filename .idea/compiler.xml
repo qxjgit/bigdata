@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ElasticSearch" />
+        <module name="Hadoop" />
+        <module name="Hbase" />
+        <module name="Kafka" />
+        <module name="Scala" />
+        <module name="Spark" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bigdata" target="1.8" />
+      <module name="ElasticSearch" target="1.8" />
+      <module name="Hadoop" target="1.8" />
+      <module name="Hbase" target="1.8" />
+      <module name="Kafka" target="1.8" />
+      <module name="Scala" target="1.8" />
+      <module name="Spark" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
