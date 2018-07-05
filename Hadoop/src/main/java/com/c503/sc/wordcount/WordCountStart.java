@@ -12,7 +12,7 @@ import java.io.IOException;
 /**
  * Created by YJH on 2018/6/15.
  */
-//com.c503.hadoop.mapreduce.mrLen.WordCountStart
+//com.c503.hadoop.mapreduce.mrLen.AA
 public class WordCountStart {
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
         String localPath = "G:\\bigdata\\";

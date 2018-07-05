@@ -1,7 +1,5 @@
-package com.dtinone.hbase;
+package com.c503.sc.project1;
 
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
-import org.apache.avro.generic.GenericData;
 import org.apache.hadoop.hbase.Cell;
 import org.apache.hadoop.hbase.CellUtil;
 import org.apache.hadoop.hbase.TableName;

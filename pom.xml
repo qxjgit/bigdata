@@ -37,6 +37,7 @@
         <commons.version>3.5</commons.version>
         <maven.assembly.version>3.0.0</maven.assembly.version>
         <mortbay.jetty.version>6.1.14</mortbay.jetty.version>
+        <alibaba.fastjson.version>1.2.47</alibaba.fastjson.version>
     </properties>
 
     <dependencyManagement>
@@ -298,6 +299,11 @@
                 <groupId>org.mortbay.jetty</groupId>
                 <artifactId>jetty-util</artifactId>
                 <version>${mortbay.jetty.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>fastjson</artifactId>
+                <version>${alibaba.fastjson.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
